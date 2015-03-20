@@ -1,0 +1,24 @@
+# Object files
+build/
+*.o
+*.ko
+*.obj
+*.elf
+*.bin
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.metadata
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# CDT-specific
+.cproject
